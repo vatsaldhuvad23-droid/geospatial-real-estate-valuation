@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+geopandas
+shapely
+folium
+xgboost
+torch
+torch-geometric
+node2vec
+streamlit
+jupyter
