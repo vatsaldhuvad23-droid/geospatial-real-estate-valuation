@@ -15,3 +15,7 @@ venv/
 
 # VS Code
 .vscode/
+
+# Generated reports
+reports/*.geojson
+reports/*.html
